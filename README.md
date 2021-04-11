@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Blockchain Dependencies
+
+#### web3.js
+
+Collection of JavaScript libraries which allow you to interact with a local or remote ethereum node, using HTTP or IPC connection.
+
+```
+npm install --save web3
+```
